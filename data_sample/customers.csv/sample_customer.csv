@@ -1,0 +1,6 @@
+CustomerID,CustomerName,Email,Country,JoinedDate
+C101,Anil Kumar,ANIL@GMAIL.COM,India,2026-01-10
+C102, Priya Sharma ,priya@yahoo.com,India,2026-01-12
+C103,John Doe,john.doe@gmail.com,USA,2026-01-15
+C101,Anil Kumar,anil@gmail.com,India,2026-01-20
+C104,,unknown_email@gmail.com,UK,2026-01-18
